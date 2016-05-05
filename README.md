@@ -1,5 +1,7 @@
 ## Starter project for client side app with JQuery
 
+[![Join the chat at https://gitter.im/pogorelschi/javascript-jquery-starter](https://badges.gitter.im/pogorelschi/javascript-jquery-starter.svg)](https://gitter.im/pogorelschi/javascript-jquery-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a purely client side application that will connect to any [prismic.io](https://prismic.io) repository. It uses the prismic.io JavaScript developement kit, and provide a few helpers to integrate with JQuery and a templating engine.
 
 > This project embed a very simple Micro templating engine (http://ejohn.org/blog/javascript-micro-templating/), but you can easily switch it by any other JavaScript templating engine you want.
